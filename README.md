@@ -1,2 +1,2 @@
 # Quora-Posts-using-REST
-Using CRUD(DB Operation
+Using CRUD(DB) Operation
